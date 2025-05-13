@@ -9,7 +9,7 @@ import ForgetPassword from "../pages/Auth/ForgetPassword";
 import PrivateRoutes from "./PrivateRoutes";
 import Profile from "../pages/Profile/Profile";
 import UpdateProfile from "../pages/Profile/UpdateProfile";
-import Services from "../pages/Services/Home";
+import Services from "../pages/Services/Services";
 import AddService from "../pages/Services/AddService";
 import ServiceDetails from "../pages/Services/ServiceDetails";
 import MyServices from "../pages/Services/MyServices";
